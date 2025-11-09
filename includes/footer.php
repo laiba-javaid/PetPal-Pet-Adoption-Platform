@@ -3,7 +3,7 @@
           
             <div class="col-lg-3 col-md-6 col-sm-6">
               <div class=" shadow-1-strong d-flex align-items-center justify-content-center mb-3 mx-auto mt-3" style="width: 100px; height: 100px;">
-                <img src="/PetPal/assets/images/PetPal-logo.png" height="150px" alt=""
+                <img src="/assets/images/PetPal-logo.png" height="150px" alt=""
                      loading="lazy" />
               </div>
               <p>
@@ -15,10 +15,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
               <h3>Quick Links</h3>
               <ul>
-                <li><a href="/PetPal/index.php">Home</a></li>
-                <li><a href="/PetPal/adopt.php">Adopt a Pet</a></li>
-                <li><a href="/PetPal/about.php">About</a></li>
-                <li><a href="/PetPal/contact.php">Contact</a></li>
+                <li><a href="/index.php">Home</a></li>
+                <li><a href="/adopt.php">Adopt a Pet</a></li>
+                <li><a href="/about.php">About</a></li>
+                <li><a href="/contact.php">Contact</a></li>
               </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
@@ -38,7 +38,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
               <img
                 class="img-fluid footer-image"
-                src="/PetPal/assets/images/footerImg.png"
+                src="/assets/images/footerImg.png"
                 alt=""
                 width="300px"
                 height="300px"
